@@ -1,6 +1,6 @@
 # Authors
 
-This project is the result of contributions from many individuals. Below is a list of all the contributors, in alphabetical order by last name.
+This project is the result of contributions from a few individuals. Below is a list of all the contributors, in alphabetical order by last name.
 
 ## Maintainers
 
