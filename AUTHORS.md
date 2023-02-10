@@ -8,7 +8,7 @@ This project is the result of contributions from many individuals. Below is a li
 
 ## Contributors
 
-- [CrunchyDovah](https://github.com/crunchyhdovah)
+- [CrunchyDovah](https://github.com/crunchydovah)
 - [metaglitchr](https://github.com/metaglitchr-tech)
 
 If you have made contributions to this project and would like to be added to the list, please open a pull request with the changes.
