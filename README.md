@@ -28,5 +28,5 @@ We welcome contributions to this project! If you are interested in contributing,
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
